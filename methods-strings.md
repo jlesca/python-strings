@@ -1,5 +1,9 @@
 # Metodos Para Strings
 
+Todos estos métodos devolveran nuevos valores al momento de mostrar en pantalla, pero no modificarán el valor original almacenado en nuestra variable.
+
+</br>
+
 <table class="ws-table-all notranslate">
 <tbody><tr>
 <th>Method</th>
