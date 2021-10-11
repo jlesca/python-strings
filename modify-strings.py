@@ -25,3 +25,10 @@ print(name.replace("K", "C")) # Mostrará COCHE en lugar de KOCHE.
 
 name = "Koche" # Creo la variable con el valor Koche.
 print(name.split("c")) # Esto mostrará ['Ko', 'he']
+
+
+# En Python también podemos concatenar strings, ya sea entre variables o textos.
+
+a = "I am " # Creo la variable con el primer str
+b = "Koche" # Creo la variable con el segundo str
+print(a + b) # Mostrará la concatenación entre ambas "I am " + "Koche"
