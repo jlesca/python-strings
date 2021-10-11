@@ -3,4 +3,4 @@ Some skills that I've learned about strings in Python.
 
 1.  [Creating Strings](creating-strings.py)
 2.  [Slicing Strings](slicing-strings.py)
-3.  [Modify Strings](modifi-strings.py)
+3.  [Modify Strings](modify-strings.py)
