@@ -21,3 +21,10 @@ print(note.format(weight,height)) # Mostrará "My weight is 80 kilograms and my 
 
 # En la línea 19 hemos indicado mediante {llaves} las posiciones que ocuparan nuestras variables no alfanuméricas.
 # En la línea 20 mediante el método FORMAT() indicamos las variables a rellenar, según el orden en que queremos que se apliquen.
+
+
+# Existe también una manera corta de poder dar formamto a nuestras variables STR.
+# Esto se puede realizar mediante el método abreviado 'f'.
+
+age = 35 # Creo la variable y asigno su valor.
+print (f"I'm {age} years old") # Se debe anteponer la f a toda la str, luego la variable o el valor numérico deberá ir entre {llaves}
